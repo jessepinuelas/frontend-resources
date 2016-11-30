@@ -1,0 +1,15 @@
+# IDE's
+.idea/
+*.iml
+
+# OS
+*.DS_Store
+
+# Deps, generated, libs etc
+.tmp/
+coverage/
+dist/
+node_modules/
+jspm_packages/
+bower_components/
+.sass-cache/
