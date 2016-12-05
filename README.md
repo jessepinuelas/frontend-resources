@@ -12,7 +12,7 @@ actions with the Powerpack.
 **Dash App**  
 Dash is an API Documentation Browser and Code Snippet Manager. Dash searches offline documentation
 of 150+ APIs and stores snippets of code. You can also generate your own documentation sets.   
-[View Dash App](https://www.alfredapp.com/)  
+[View Dash App](https://kapeli.com/dash)  
 
 **Divvy**  
 Divvy is a utility for Mac OS X and Microsoft Windows to quickly resize and position your windows   
