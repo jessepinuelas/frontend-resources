@@ -69,7 +69,7 @@ Typed superset of JavaScript that compiles to plain JavaScript
 **NVM**  
 Node Version Manager - Simple bash script to manage multiple active node.js versions  
 [Visit nvm's git repo for details](https://github.com/creationix/nvm)  
-[Additonal information is available on the wiki](https://ghe.coxautoinc.com/jesse-pinuelas/fed-tools/wiki/Node-Version-Manager)
+[Additional information is available on the wiki](https://github.com/jessepinuelas/frontend-resources/wiki/Node-Version-Manager)
  
 **NVM - Windows**  
 A node.js version management utility for Windows. Ironically written in Go.   
