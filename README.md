@@ -57,7 +57,7 @@ applications, whether on laptops, data center VMs, or the cloud.
 [Visit docker.com for details](https://www.docker.com/)  
 
 
-## Frameworks and Libs (Work in progress)
+## Frameworks and Libs
 **Angular 2**  
 Angular is a development platform for building mobile and desktop web applications  
 [Visit angular.io for details](https://angular.io/)
@@ -118,3 +118,7 @@ The last carousel you'll ever need
 **Neat**  
 A lightweight, semantic grid framework built with Bourbon  
 [Visit neat.bourbon.io for details](http://neat.bourbon.io)  
+
+**Chartist.js**  
+A lightweight, responsive chart library  
+[Visit https://gionkunz.github.io/chartist-js for details](https://gionkunz.github.io/chartist-js/)  
