@@ -58,7 +58,7 @@ applications, whether on laptops, data center VMs, or the cloud.
 
 
 ## Frameworks and Libs
-**Angular 2**  
+**Angular**  
 Angular is a development platform for building mobile and desktop web applications  
 [Visit angular.io for details](https://angular.io/)
 
