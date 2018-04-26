@@ -1,4 +1,4 @@
-##Front-end Tools, Applications and Libs for efficiency and productivity
+Front-end Tools, Applications and Libs for efficiency and productivity
 For additional information, instructions and or recipes view the [fed-tools wiki](https://github.com/jessepinuelas/frontend-tools/wiki).    
 
 
